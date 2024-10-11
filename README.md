@@ -1,6 +1,7 @@
 # SnapAi - Transform Your Imagination In Reality
 
 This project is a visually captivating user interface designed for an AI-driven Image creation platform, SnapAi. The interface combines vibrant colors, artistic elements, and a clean, intuitive layout to enhance user experience.
+![Image Preview](https://api.urlbox.io/v1/ca482d7e-9417-4569-90fe-80f7c5e1c781/977ad1386ad71e13a9c15f2bd174961fd5f6024379148ff433aa098ee8a51c53/png?url=https%3A%2F%2Fcreator-snapai.onrender.com%2F&width=1440&height=1024&full_page=true&hide_cookie_banners=true)
 
 ## Project Overview
 
